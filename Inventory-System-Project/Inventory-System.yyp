@@ -6,6 +6,7 @@
     {"id":{"name":"sInventoryCell","path":"sprites/sInventoryCell/sInventoryCell.yy",},"order":0,},
     {"id":{"name":"oDrawInventoryText","path":"objects/oDrawInventoryText/oDrawInventoryText.yy",},"order":1,},
     {"id":{"name":"oInventory","path":"objects/oInventory/oInventory.yy",},"order":2,},
+    {"id":{"name":"InventoryLogic","path":"scripts/InventoryLogic/InventoryLogic.yy",},"order":2,},
     {"id":{"name":"rmFirst","path":"rooms/rmFirst/rmFirst.yy",},"order":0,},
   ],
   "Options": [
