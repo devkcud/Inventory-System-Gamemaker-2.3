@@ -7,6 +7,7 @@ If you have errors about your code, you can talk to me on Discord otap#2130, and
 
 # Discontinued
 I am discontinuing the project because I am working on other things at the moment. Eventually, I will return with other projects and much more content. But at the moment I can't continue.
+Feel free to download the project and continue it yourself.
 
 # What can I do with this inventory?
 With this inventory you can do a lot of stuff:
