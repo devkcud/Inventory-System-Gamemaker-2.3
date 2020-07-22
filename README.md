@@ -6,7 +6,7 @@ It is a simple inventory for your game. You can download the project and modify 
 If you have errors about your code, you can talk to me on Discord otap#2130, and I will try to help you. Just remember, google is your friend.
 
 # Discontinued
-I am discontinuing the project because I am working on other things at the moment. Someday, I will return with other projects and much more content. But at the moment I can't continue.
+I am discontinuing the project because I am working on other things at the moment. Eventually, I will return with other projects and much more content. But at the moment I can't continue.
 
 # What can I do with this inventory?
 With this inventory you can do a lot of stuff:
