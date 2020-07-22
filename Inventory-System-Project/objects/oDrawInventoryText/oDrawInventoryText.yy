@@ -18,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"oDraw","path":"objects/oDraw/oDraw.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"oDrawInventoryText","path":"objects/oDrawInventoryText/oDrawInventoryText.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Inventory-System",
-    "path": "Inventory-System.yyp",
+    "name": "objects",
+    "path": "folders/Inventory/objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oDraw",
+  "name": "oDrawInventoryText",
   "tags": [],
   "resourceType": "GMObject",
 }

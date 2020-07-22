@@ -1,6 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"oDraw","path":"objects/oDraw/oDraw.yy",},"order":0,},
+    {"id":{"name":"InventoryProperites","path":"scripts/InventoryProperites/InventoryProperites.yy",},"order":0,},
+    {"id":{"name":"sItems","path":"sprites/sItems/sItems.yy",},"order":3,},
+    {"id":{"name":"sInventoryCell","path":"sprites/sInventoryCell/sInventoryCell.yy",},"order":0,},
+    {"id":{"name":"oDrawInventoryText","path":"objects/oDrawInventoryText/oDrawInventoryText.yy",},"order":1,},
+    {"id":{"name":"oInventory","path":"objects/oInventory/oInventory.yy",},"order":2,},
     {"id":{"name":"rmFirst","path":"rooms/rmFirst/rmFirst.yy",},"order":0,},
   ],
   "Options": [
@@ -21,6 +25,11 @@
   ],
   "Folders": [
     {"folderPath":"folders/Rooms.yy","order":1,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Inventory.yy","order":2,"resourceVersion":"1.0","name":"Inventory","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Inventory/sprites.yy","order":1,"resourceVersion":"1.0","name":"sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Inventory/objects.yy","order":2,"resourceVersion":"1.0","name":"objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Inventory/scripts.yy","order":3,"resourceVersion":"1.0","name":"scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Inventory/objects/Items.yy","order":3,"resourceVersion":"1.0","name":"Items","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
