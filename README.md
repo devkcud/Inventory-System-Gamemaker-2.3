@@ -5,9 +5,8 @@ _created by: otap/devkcud_
 It is a simple inventory for your game. You can download the project and modify the code if you want.
 If you have errors about your code, you can talk to me on Discord otap#2130, and I will try to help you. Just remember, google is your friend.
 
-# Code
-I made it in 23 hours for a Game Jam, but I like what I did, so I will work on it until it is perfect.
-If you want to help me, you can do this by talking to me on Discord or just modifying the code yourself.
+# Discontinued
+I am discontinuing the project because I am working on other things at the moment. Someday, I will return with other projects and much more content. But at the moment I can't continue.
 
 # What can I do with this inventory?
 With this inventory you can do a lot of stuff:
